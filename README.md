@@ -1,4 +1,4 @@
-#[Archive] My take on the mandelbrot set.
+# [Archive] My take on the mandelbrot set.
 **The task was accomplished during an internship at [Milandr](https://www.milandr.com/) in 2022.**
 
 ### Usage guide:
