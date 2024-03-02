@@ -1,6 +1,12 @@
 # [Archive] My take on the mandelbrot set.
 **The task was accomplished during an internship at [Milandr](https://www.milandr.com/) in 2022.**
 
+### Attention!
+_Code was tested on Little Endian machine. To check byte order on your machine you can use this command:_
+```
+lscpu | grep "Byte Order"
+```
+
 ### Usage guide:
 ```
 gcc main.c -Wall -o app
